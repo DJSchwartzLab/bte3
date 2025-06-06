@@ -8,7 +8,7 @@ This repository contains bash scripts and other files needed to reproduce the su
 * NCBI: BioProject PRJNA884103
 
 ### RobertThanertNEC_metagenomes
-* Thänert _et al_., _Cell Host Microbe_ (2024)
+* Thänert _et al_., _Cell Host & Microbe_ (2024)
 * NCBI: BioProject PRJNA799247
 
 ### BioSigs_metagenomes
@@ -25,7 +25,7 @@ This repository contains bash scripts and other files needed to reproduce the su
 
 
 ### T1D_cohort_metagenomes
-* 
+* Kostic _et al_., _Cell Host & Microbe_ (2015)
 * https://diabimmune.broadinstitute.org/diabimmune/t1d-cohort/resources/metagenomic-sequence-data
 
 
