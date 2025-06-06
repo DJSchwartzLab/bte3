@@ -40,7 +40,7 @@ This repository contains bash scripts and other files needed to reproduce the su
 
 ### Metahit_metagenomes
 * Qin _et al._, _Nature_ (2010) 
-* EBI: ERA000116
+* EBI: [ERA000116](https://www.ebi.ac.uk/ena/browser/view/ERA000116?show=reads) 
   
 ### HMP_metagenomes
 * https://www.hmpdacc.org/hmp/HMASM/
