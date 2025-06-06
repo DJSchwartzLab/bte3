@@ -11,6 +11,12 @@ This repository contains bash scripts and other files needed to reproduce the su
 * Thänert _et al_., _Cell Host Microbe_ (2024)
 * NCBI: BioProject PRJNA799247
 
+### BioSigs
+* Deveaux _et al_., _Microbiome_ (2025)
+* NCBI: BioProject: PRJNA1148144
+
 ### antibiotics_cohort_metagenomes
+### threecountry_cohort_metagenomes
+### T1D_cohort_metagenomes
 ### Metahit_metagenomes
 ### HMP_metagenomes
