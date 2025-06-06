@@ -23,24 +23,24 @@ This repository contains bash scripts and other files needed to reproduce the su
 * Deveaux _et al_., _Microbiome_ (2025)
 * NCBI: BioProject: PRJNA1148144
 
-### antibiotics_cohort_metagenomes
+### antibiotics_cohort_metagenomes (DIABIMMUNE)
 * Yassour _et al._, _Science Translational Medicine_ (2016)
 * NCBI: BioProject PRJNA290381
 * https://diabimmune.broadinstitute.org/diabimmune/antibiotics-cohort/resources/metagenomic-sequence-data
 
-### threecountry_cohort_metagenomes
+### threecountry_cohort_metagenomes (DIABIMMUNE)
 * Vatanen _et al_., _Cell_ (2016)
 * NCBI: BioProject PRJNA290380
 * https://diabimmune.broadinstitute.org/diabimmune/three-country-cohort/resources/metagenomic-sequence-data
 
-### T1D_cohort_metagenomes
+### T1D_cohort_metagenomes (DIABIMMUNE)
 * Kostic _et al_., _Cell Host & Microbe_ (2015)
 * NCBI: BioProject PRJNA231909
 * https://diabimmune.broadinstitute.org/diabimmune/t1d-cohort/resources/metagenomic-sequence-data
 
 ### Metahit_metagenomes
 * Qin _et al._, _Nature_ (2010) 
-* EBI: ERA000116
+* EBI: [ERA000116](https://www.ebi.ac.uk/ena/browser/view/ERA000116?show=reads) 
   
 ### HMP_metagenomes
 * https://www.hmpdacc.org/hmp/HMASM/
