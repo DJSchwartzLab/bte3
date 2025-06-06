@@ -35,3 +35,6 @@ This repository contains bash scripts and other files needed to reproduce the su
 * EBI: ERA000116
   
 ### HMP_metagenomes
+* https://www.hmpdacc.org/hmp/HMASM/
+* Associated metadata available by the [EBI ENA browser](https://www.ebi.ac.uk/ena/browser/home) (search by SRS accession number)
+
