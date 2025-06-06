@@ -10,3 +10,7 @@ This repository contains bash scripts and other files needed to reproduce the su
 ### RobertThanertNEC_metagenomes
 * Thänert _et al_., _Cell Host Microbe_ (2024)
 * NCBI: BioProject PRJNA799247
+
+### antibiotics_cohort_metagenomes
+### Metahit_metagenomes
+### HMP_metagenomes
