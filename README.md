@@ -17,18 +17,17 @@ This repository contains bash scripts and other files needed to reproduce the su
 
 ### antibiotics_cohort_metagenomes
 * Yassour _et al._, _Science Translational Medicine_ (2016)
+* NCBI: BioProject PRJNA290381
 * https://diabimmune.broadinstitute.org/diabimmune/antibiotics-cohort/resources/metagenomic-sequence-data
 
 ### threecountry_cohort_metagenomes
 * Vatanen _et al_., _Cell_ (2016)
-* NCBI: BioProject: PRJNA290380
+* NCBI: BioProject PRJNA290380
 * https://diabimmune.broadinstitute.org/diabimmune/three-country-cohort/resources/metagenomic-sequence-data
-
 
 ### T1D_cohort_metagenomes
 * Kostic _et al_., _Cell Host & Microbe_ (2015)
 * https://diabimmune.broadinstitute.org/diabimmune/t1d-cohort/resources/metagenomic-sequence-data
-
 
 ### Metahit_metagenomes
 * Qin _et al._, _Nature_ (2010) 
