@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# First, make the script executable by running: chmod +x MetaHIT_metagenomes_download_links.sh
+# Then, run the script with the destination path as an argument: ./MetaHIT_metagenomes_download_links.sh /path/to/destination
+
 wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR011/ERR011087/ERR011087.fastq.gz
 wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR011/ERR011087/ERR011087_1.fastq.gz
 wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR011/ERR011087/ERR011087_2.fastq.gz
