@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #===============================================================================
 # File name    : s11_bowtie2_bte3.sh
 # Description  : Align reads to a pre-indexed reference sequence using Bowtie 2.

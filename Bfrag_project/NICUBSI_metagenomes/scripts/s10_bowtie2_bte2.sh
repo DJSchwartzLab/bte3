@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #===============================================================================
 # File name    : s10_bowtie2_bte2.sh
 # Description  : Align reads to a pre-indexed reference sequence using Bowtie 2.
