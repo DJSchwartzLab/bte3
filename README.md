@@ -11,14 +11,12 @@ This repository contains bash scripts and other files needed to reproduce the su
 * Thänert _et al_., _Cell Host & Microbe_ (2024)
 * NCBI: BioProject PRJNA799247
 
-### Gibson_metagenomes
+### GG_metagenomes
 * Gibson _et al_., _Nature Microbiology_ (2016)
-* NCBI: BioProject PRJNA301903
-  
-### Gasparrini_metagenones
+    + NCBI: BioProject PRJNA301903
 * Gasparrini _et al_., _Nature Microbiology_ (2019)
-* NCBI: BioProject PRJNA489090
-
+    + NCBI: BioProject PRJNA489090
+ 
 ### BioSigs_metagenomes
 * Deveaux _et al_., _Microbiome_ (2025)
 * NCBI: BioProject: PRJNA1148144
