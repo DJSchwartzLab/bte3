@@ -38,7 +38,7 @@ This repository contains bash scripts and other files needed to reproduce the su
 * NCBI: BioProject PRJNA231909
 * https://diabimmune.broadinstitute.org/diabimmune/t1d-cohort/resources/metagenomic-sequence-data
 
-### Metahit_metagenomes
+### MetaHIT_metagenomes
 * Qin _et al._, _Nature_ (2010) 
 * EBI: [ERA000116](https://www.ebi.ac.uk/ena/browser/view/ERA000116?show=reads) 
   
