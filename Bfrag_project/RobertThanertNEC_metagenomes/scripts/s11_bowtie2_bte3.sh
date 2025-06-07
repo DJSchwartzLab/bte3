@@ -3,7 +3,7 @@
 # File name    : s10_bowtie2_bte3.sh
 # Description  : Align reads to a pre-indexed reference sequence using Bowtie 2.
 #                Designed to be run after index creation using bowtie2-build.
-# Usage        : sbatch s10_bowtie2.sh
+# Usage        : sbatch s10_bowtie2_bte3.sh
 # Author       : Jessica Tung (j.l.tung@wustl.edu)
 # Version      : 1.0
 # Created on   : 02/13/2025

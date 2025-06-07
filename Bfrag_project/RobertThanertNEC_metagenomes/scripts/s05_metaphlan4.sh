@@ -1,9 +1,9 @@
 #!/bin/bash
 
 #===============================================================================
-# File name    : s08_metaphlan4.sh
+# File name    : s05_metaphlan4.sh
 # Description  : Profiles taxonomic composition of a read set using MetaPhlAn 4.
-# Usage        : sbatch s08_metaphlan4.sh
+# Usage        : sbatch s05_metaphlan4.sh
 # Author       : Jessica Tung (j.l.tung@wustl.edu)
 # Version      : 1.0
 # Created on   : 02/13/2025
