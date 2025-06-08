@@ -27,7 +27,7 @@ eval $(spack load --sh bbmap@39.01)
 
 #Define input and output directories
 BASEDIR="/scratch/djslab/jltung/Bfrag_project/MetaHIT_metagenomes"
-INDIR="${BASEDIR}/downloaded_reads"
+INDIR="${BASEDIR}/deconseq_out"
 OUTDIR="${BASEDIR}/bbmap_repaired"
 OUTDIR2="${BASEDIR}/bbmap_repaired_singletons"
 
@@ -36,8 +36,8 @@ ID=`sed -n ${SLURM_ARRAY_TASK_ID}p ${BASEDIR}/MetaHIT_metagenomes_mappingfile.tx
 
 #Run repair
 repair.sh --tossbrokenreads \
-    in1=${INDIR}/${ID}_1.fastq \
-    in2=${INDIR}/${ID}_2.fastq \
+    in1=${INDIR}/${ID}_1_clean.fq \
+    in2=${INDIR}/${ID}_2_clean.fq \
     out1=${OUTDIR}/${ID}_FW_CLEAN_REPAIRED.fastq \
     out2=${OUTDIR}/${ID}_RV_CLEAN_REPAIRED.fastq \
     outs=${OUTDIR2}/${ID}_SINGLETONS_CLEAN_REPAIRED.fastq.gz
