@@ -6,8 +6,8 @@
 # Usage        : sbatch s04_deconseq.sh
 # Author       : Jessica Tung (j.l.tung@wustl.edu)
 # Version      : 1.0
-# Created on   : 01/21/2025
-# Last modified: 01/21/2025
+# Created on   : 02/13/2025
+# Last modified: 02/13/2025
 #===============================================================================
 
 # Submission script for HTCF
