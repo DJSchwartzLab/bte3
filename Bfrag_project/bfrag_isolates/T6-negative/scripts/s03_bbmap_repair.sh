@@ -8,7 +8,7 @@
 #                analyses will be done, it may be necessary to re-pair paired reads.
 #                Good practice to always run.
 # Usage        : sbatch s03_bbmap_repair.sh
-# Author       : Jessica Tung, j.l.tung@wustl.edu
+# Author       : Jessica Tung (j.l.tung@wustl.edu)
 # Version      : 1.0
 # Created on   : 02/13/2025
 # Last modified: 02/13/2025
