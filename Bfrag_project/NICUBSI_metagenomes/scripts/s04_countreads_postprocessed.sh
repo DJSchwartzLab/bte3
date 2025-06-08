@@ -12,7 +12,7 @@
 #==================================================================================
 
 # Submission script for HTCF
-#SBATCH --job-name=s04_countreads_postprocessed.sh
+#SBATCH --job-name=countreads_postprocessed
 #SBATCH --time=0-00:00:00 # days-hh:mm:ss
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=32G
