@@ -10,8 +10,8 @@
 # Last modified: 02/13/2025
 #==================================================================================
 
-#Submission script for HTCF
-#SBATCH --job-name=s02_fastqc_preprocessed.sh
+# Submission script for HTCF
+#SBATCH --job-name=fastqc_preprocessed
 #SBATCH --array=1-6
 #SBATCH --time=0-06:00:00 # days-hh:mm:ss
 #SBATCH --mem=8G
