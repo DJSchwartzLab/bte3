@@ -4,7 +4,7 @@
 # File name    : s02_fastqc_preprocessed.sh
 # Description  : This script will run FastQC on samples in parallel.
 # Usage        : sbatch s02_fastqc_preprocessed.sh
-# Author       : Jessica Tung, j.l.tung@wustl.edu
+# Author       : Jessica Tung (j.l.tung@wustl.edu)
 # Version      : 1.0
 # Created on   : 02/13/2025
 # Last modified: 02/13/2025
