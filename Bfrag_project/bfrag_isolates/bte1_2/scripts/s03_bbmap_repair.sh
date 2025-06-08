@@ -14,7 +14,7 @@
 # Last modified: 02/13/2025
 #===================================================================================
 
-#Submission script for HTCF
+# Submission script for HTCF
 #SBATCH --job-name=bbmap_repair
 #SBATCH --array=1-6
 #SBATCH --time=6-00:00:00 #days-hh:mm:ss
