@@ -1,10 +1,10 @@
 #!/bin/bash
 
 #===============================================================================
-# File name    : s09_bowtie2_build_bte3.sh
+# File name    : s11_bowtie2_build_bte3.sh
 # Description  : This script creates an index from a reference FASTA file (bte3.fasta)
 #                using bowtie2-build.
-# Usage        : sbatch s09_bowtie2_build_bte3.sh
+# Usage        : sbatch s11_bowtie2_build_bte3.sh
 # Author       : Jessica Tung (j.l.tung@wustl.edu)
 # Version      : 1.0
 # Created on   : 02/13/2025
