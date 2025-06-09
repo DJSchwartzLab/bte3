@@ -15,7 +15,7 @@
 #SBATCH --array=1-812
 #SBATCH --time=3-00:00:00 #days-hh:mm:ss
 #SBATCH --cpus-per-task=8
-#SBATCH --mem=32G
+#SBATCH --mem=64G
 #SBATCH --output=slurmout/deconseq/x_deconseq_%a.out
 #SBATCH --error=slurmout/deconseq/y_deconseq_%a.err
 
