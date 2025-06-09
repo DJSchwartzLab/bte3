@@ -15,7 +15,7 @@
 #SBATCH --job-name=bowtie2
 #SBATCH --mem=8G
 #SBATCH --cpus-per-task=4
-#SBATCH --array=1-8121
+#SBATCH --array=1-812
 #SBATCH --output=slurmout/bowtie2_bte3/x_bowtie2_bte3_%A_%a.out
 #SBATCH --error=slurmout/bowtie2_bte3/y_bowtie2_bte3_%A_%a.err
 

@@ -32,7 +32,7 @@ OUTDIR="${BASEDIR}/bbmap_repaired"
 OUTDIR2="${BASEDIR}/bbmap_repaired_singletons"
 
 #Get sample ID from mapping file
-ID=`sed -n ${SLURM_ARRAY_TASK_ID}p ${BASEDIR}/HMP_metagenomes_mappingfile.txt`
+ID=`sed -n ${SLURM_ARRAY_TASK_ID}p ${BASEDIR}/TCC_metagenomes_mappingfile.txt`
 
 #Run repair
 repair.sh --tossbrokenreads \
