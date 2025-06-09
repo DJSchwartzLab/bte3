@@ -1,9 +1,9 @@
 #!/bin/bash
 
 #==================================================================================
-# File name    : s04_fastqc_preprocessed.sh
+# File name    : s03_fastqc_preprocessed.sh
 # Description  : This script will run FastQC on samples in parallel.
-# Usage        : sbatch s04_fastqc_preprocessed.sh
+# Usage        : sbatch s03_fastqc_preprocessed.sh
 # Author       : Jessica Tung (j.l.tung@wustl.edu)
 # Version      : 1.0
 # Created on   : 02/13/2025
