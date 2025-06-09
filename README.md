@@ -30,6 +30,7 @@ This repository contains bash scripts and other files needed to reproduce the su
 * Vatanen _et al_., _Cell_ (2016)
 * NCBI: BioProject PRJNA290380
 * https://diabimmune.broadinstitute.org/diabimmune/three-country-cohort/resources/metagenomic-sequence-data
+* Disregard samples G78759, G78748, G78749, G86986, G78738, G80617, G78818, and G78739. According to email correspondence with Dr. Vatanen, they are not part of the TCC cohort and were uploaded in error.
 
 ### T1D_metagenomes (DIABIMMUNE)
 * Kostic _et al_., _Cell Host & Microbe_ (2015)
