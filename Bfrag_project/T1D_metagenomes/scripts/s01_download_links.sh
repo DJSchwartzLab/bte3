@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # First, make the script executable by running: chmod +x s01_download_links.sh
-# Then, run the script with the destination path as an argument: ./s01_download_links.sh HMP_metagenomes_download_links.txt /path/to/destination
+# Then, run the script with the destination path as an argument: ./s01_download_links.sh T1D_metagenomes_download_links.txt /path/to/destination
 
 # Function to download a file
 download_file() {
