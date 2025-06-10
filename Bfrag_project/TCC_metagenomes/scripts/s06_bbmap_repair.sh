@@ -36,8 +36,8 @@ ID=`sed -n ${SLURM_ARRAY_TASK_ID}p ${BASEDIR}/TCC_metagenomes_mappingfile.txt`
 
 #Run repair
 repair.sh --tossbrokenreads \
-    in1=${INDIR}/${ID}_FW_clean.fq \
-    in2=${INDIR}/${ID}_RV_clean.fq \
+    in1=${INDIR}/${ID}_FW_CLEAN_clean.fq \
+    in2=${INDIR}/${ID}_RV_CLEAN_clean.fq \
     out1=${OUTDIR}/${ID}_FW_CLEAN_REPAIRED.fastq \
     out2=${OUTDIR}/${ID}_RV_CLEAN_REPAIRED.fastq \
     outs=${OUTDIR2}/${ID}_SINGLETONS_CLEAN_REPAIRED.fastq.gz
