@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#===============================================================================
+#================================================================================================================================================================================================
 # File name    : s06_deconseq.sh
 # Description  : Run DeconSeq against the human genome.
 # Usage        : sbatch s06_deconseq.sh
@@ -8,7 +8,7 @@
 # Version      : 1.0
 # Created on   : 01/21/2025
 # Last modified: 01/21/2025
-#===============================================================================
+#================================================================================================================================================================================================
 
 # Submission script for HTCF
 #SBATCH --job-name=deconseq
@@ -21,9 +21,9 @@
 
 # Load DeconSeq module
 # Loading from Schwartz lab Spack instance the associated DeconSeq configuration file below has been edited to:
-#  1.) point to the Dantas Lab ref DB folder: /ref/gdlab/data/deconseq_db,
-#  2.) recognize that the DB folder contains database files for the mouse genome and archaeal genomes, and not just the human, bacterial, and viral genomes that are default available databases
-#. 3.) point to the correct directory for bwa64 executable.
+# 1.) point to the Dantas Lab ref DB folder: /ref/gdlab/data/deconseq_db,
+# 2.) recognize that the DB folder contains database files for the mouse genome and archaeal genomes, and not just the human, bacterial, and viral genomes that are default available databases,
+# 3.) point to the correct directory for bwa64 executable.
 # /ref/djslab/software/spack-0.18.1/opt/spack/linux-rocky8-x86_64/gcc-8.5.0/deconseq-standalone-0.4.3-ikgqjmgyy4sujmjugkfw7yik4mnrwe6m/De$
 # Use command: deconseq.pl -show_dbs to see the available databases (mouse, hsref, arch, bact, vir in the Schwartz lab)
 eval "$( spack load --sh deconseq-standalone@0.4.3 )"
